@@ -5,3 +5,10 @@
     background: url("../images/header-background.jpg") center center no-repeat;
     background-size:cover ;
 }
+.hero .image-container{
+    display: flex;
+    justify-content: center;
+}
+.hero .text-container{
+    text-align: center;
+}
