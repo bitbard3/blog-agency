@@ -1,8 +1,10 @@
-# Ebook Website
+# [Ebook Website](https://blog-agency.vercel.app/index.html)
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
-#
+## Preview 
+<img width="1440" alt="Screenshot 2023-10-20 at 12 33 01 AM" src="https://github.com/bitbard3/blog-agency/assets/140071186/d4f372d7-ddea-4a11-b719-d917ebedabf8">
+
 
 ## Features
 
